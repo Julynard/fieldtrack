@@ -3,7 +3,7 @@
 A multi-tenant app for field sales reps: store visits, GPS check-ins, offline sync, approval workflows and a supervisor dashboard by district.
 
 > **Status: in development.** This repo is the plan and the write-up; the interactive demo is being built next.
-> Star or watch the repo to see it land. The live demo link will appear here.
+> **Demo preview:** https://julynard.github.io/fieldtrack/ (becomes the live demo when it ships).
 
 Part of [Julynard Tago-on's portfolio](https://julynardtago-on.netlify.app/#projects). Based on the multi-tenant field-sales platform I work on at CoreProc (#2 contributor by commits).
 Client code is private, so this is a clean-room demo with fictional data. No client names or real data.
